@@ -31,7 +31,7 @@ npm (version 9+ recommended)
 
 Bash
 
-git clone https://github.com/your-username/ProductivityFly.git
+git clone https://github.com/GonzanDev/ProductivityFly.git
 cd ProductivityFly
 
 2. Install dependencies:
@@ -84,7 +84,7 @@ Code Signing: The current version does not include code signing. If you plan to 
 📄 License and Credits
 This project is intended for personal and educational use only. Distribution without developer consent is not recommended.
 
-Developed by [Your Name].
+Developed by [GonzanDev].
 
 Inspired by the idea of gamifying productivity and turning procrastination into action using annoying little flies. 🐞
 
