@@ -16,7 +16,7 @@ Flexible Stopping Stop the annoyance via a configurable keyboard shortcut (defau
 Cross-Platform Works on Windows, macOS, and Linux.
 Universal Use Can be used for any task you are procrastinating on, not just coding.
 
-Exportar a Hojas de cálculo
+
 💻 Installation and Setup
 🛠️ Prerequisites
 Make sure you have the following installed:
