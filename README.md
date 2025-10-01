@@ -1,8 +1,6 @@
 ProductivityFly
 The anti-procrastination app that'll bug you!
 
-![37gU1C](https://github.com/user-attachments/assets/15bb5b38-dda8-486f-961f-030fc1216c4a)
-
 
 ProductivityFly is a fun (and slightly annoying) desktop application designed to help you stop procrastinating. It displays animated flies on your screen that multiply automatically every 3 minutes, creating a visual, growing incentive to start and finish the task you've been avoiding.
 
